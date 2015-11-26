@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tripndrive</string>
+    <string name="location">Location</string>
+    <string name="start_date">Start date</string>
+    <string name="end_date">End date</string>
+    <string name="search">Search</string>
+
+    <string name="date_pattern_simple">dd/MM/yyyy</string>
+    <string name="sorry_no_cars_available">Sorry, there is currently no car available for the desired location.</string>
+</resources>
