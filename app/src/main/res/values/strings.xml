@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Tripndrive</string>
+    <string name="menu_settings">Settings</string>
+
     <string name="location">Location</string>
     <string name="start_date">Start date</string>
     <string name="end_date">End date</string>
@@ -7,4 +9,20 @@
 
     <string name="date_pattern_simple">dd/MM/yyyy</string>
     <string name="sorry_no_cars_available">Sorry, there is currently no car available for the desired location.</string>
+
+    <string name="car_brand">Brand : %1$s</string>
+    <string name="car_model">Model : %1$s</string>
+    <string name="car_doors">Doors : %1$d</string>
+    <string name="car_year">Year : %1$d</string>
+    <string name="car_kilometers">Kilometers : %1$d</string>
+    <string name="car_seats">Seats : %1$d</string>
+    <string name="car_fuel_type">Fuel type : %1$s</string>
+    <string name="car_baby_seats">Baby seats : %1$d</string>
+    <string name="car_available_since">Available since : %1$s</string>
+    <string name="car_available_until">Available until : %1$s</string>
+
+    <plurals name="car_places">
+        <item quantity="one">%1$d place</item>
+        <item quantity="other">%1$d places</item>
+    </plurals>
 </resources>

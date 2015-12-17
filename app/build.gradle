@@ -54,6 +54,8 @@ dependencies {
 
     compile 'com.android.support:cardview-v7:23.1.0'
 
+    compile 'com.android.support:design:23.1.1'
+
     // download images asynchronously (+ cache, display, transformation...)
     compile 'com.squareup.picasso:picasso:2.5.2'
 
